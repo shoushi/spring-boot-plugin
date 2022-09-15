@@ -1,11 +1,7 @@
 package com.plugin.users.controller;
 
-import com.plugin.PluginInterface;
 import com.plugin.users.utils.ClassLoaderUtil;
 import com.plugin.users.utils.SpringUtil;
-import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.Assert;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

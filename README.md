@@ -2,6 +2,7 @@
 #### 目录结构
 - **plugin-impl**：插件实现
 - **plugin-users**：插件使用样例
+  - 项目需要，只加载handler,task,controller
 - **plugins**：插件包存放目录
 
 #### 测试 Spring Boot 动态加载 Jar 包
